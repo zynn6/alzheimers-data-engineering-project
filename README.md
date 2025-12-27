@@ -18,7 +18,6 @@ data = {
         "Rami Adel","Huda Yasin",None,"Maha Khalil",
         "Samir Farouq","Dana Zaid",
         "Ahmad Ali","Fatima Hassan","Nour Hasan","Huda Yasin",
-
         "Ibrahim Naji","Sara Fawzi","Adel Mansour","Reem Khalaf",
         "Fadi Awad","Hanan Odeh","Nabil Qasem","Yara Saeed",
         None,"Ziad Hamdan",
@@ -29,7 +28,6 @@ data = {
     "age": [
         72,68,80,65,74,45,32,58,29,None,40,61,55,34,
         72,65,None,52,
-
         66,59,83,47,71,64,None,38,
         90,56,42,67,60,None,
         75,33,69,58,81,44
@@ -40,7 +38,6 @@ data = {
         "None","Hypertension","None","None",
         "Asthma",None,
         "Alzheimer","Alzheimer","None","Hypertension",
-
         "Alzheimer","None","Alzheimer","None",
         "None","Alzheimer","Diabetes","None",
         "Alzheimer","None","None","Alzheimer",
@@ -54,7 +51,6 @@ data = {
         "Paracetamol","Losartan","Vitamin C",None,
         "Salbutamol","Iron",
         "Donepezil","Donepezil","Vitamin D","Losartan",
-
         "Donepezil","Vitamin D","Memantine","Ibuprofen",
         "Metformin","Donepezil","Insulin","Calcium",
         None,"Aspirin","Vitamin B12","Donepezil",
@@ -68,7 +64,6 @@ data = {
         "14:00","09:30","11:00","08:30",
         None,"13:00",
         "08:00",None,"10:00","09:30",
-
         "08:00","10:00","20:00","12:00",
         None,"08:00","07:00","09:00",
         "08:30",None,"11:00","08:00",
@@ -82,7 +77,6 @@ data = {
         "2025-01-20 14:00",None,"2025-01-18 11:00","2025-01-25 08:30",
         None,"2025-01-30 13:00",
         "2025-01-01 08:00",None,"2025-01-15 10:00","2025-01-18 09:30",
-
         "2025-02-01 08:00","2025-02-03 10:00","2025-02-05 20:00",
         "2025-02-07 12:00","2025-02-10 07:30",
         "2025-02-12 08:00","2025-02-14 07:00",
@@ -99,7 +93,6 @@ data = {
         None,"2025-06-30","2025-03-18",None,
         "2025-04-01","2025-02-28",
         "2025-06-01",None,"2025-05-15","2025-06-30",
-
         "2025-07-01","2025-04-03","2025-08-05",
         "2025-03-07","2025-06-10","2025-07-12",
         None,"2025-05-01",
@@ -114,7 +107,6 @@ data = {
         "Low","Medium","Low",None,
         "Medium","Low",
         "High","High","Low","Medium",
-
         "High","Low","High","Low",
         "Medium","High","Medium","Low",
         "High","Low","Low","High",
@@ -128,7 +120,6 @@ data = {
         True,None,True,True,
         True,True,
         True,True,True,None,
-
         True,True,True,True,
         False,True,True,True,
         True,True,True,True,
