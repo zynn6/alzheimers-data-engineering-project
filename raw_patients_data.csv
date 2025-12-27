@@ -1,0 +1,39 @@
+patient_id,patient_name,age,diagnosis,medication_name,medication_time,medication_start_datetime,medication_end_date,risk_level,consent_given,email_provided
+101,Ahmad Ali,72.0,Alzheimer,Donepezil,08:00,2025-01-01 08:00,2025-06-01,High,True,No Email
+102,Salma Noor,68.0,Alzheimer,Memantine,20:00,2025-01-05 20:00,2025-06-05,Medium,True,No Email
+103,Khaled Omar,80.0,,Amlodipine,,,2025-03-15,Low,True,No Email
+104,Fatima Hassan,65.0,Alzheimer,Donepezil,08:00,2025/01/03 08:00,,High,True,No Email
+105,Yousef Amin,74.0,None,Metformin,07:30,2025-01-10 07:30,2025-04-10,,False,No Email
+106,Lina Mahmoud,45.0,None,Ibuprofen,12:00,2025-01-12 12:00,2025-02-12,Low,True,No Email
+107,Omar Saleh,32.0,Diabetes,,08:00,,,Medium,True,No Email
+108,Nour Hasan,58.0,None,Vitamin D,,2025-01-15 10:00,2025-05-15,Low,True,No Email
+109,Rami Adel,29.0,None,Paracetamol,14:00,2025-01-20 14:00,,Low,True,No Email
+110,Huda Yasin,,Hypertension,Losartan,09:30,,2025-06-30,Medium,,No Email
+111,,40.0,None,Vitamin C,11:00,2025-01-18 11:00,2025-03-18,Low,True,No Email
+112,Maha Khalil,61.0,None,,08:30,2025-01-25 08:30,,,True,No Email
+113,Samir Farouq,55.0,Asthma,Salbutamol,,,2025-04-01,Medium,True,No Email
+114,Dana Zaid,34.0,,Iron,13:00,2025-01-30 13:00,2025-02-28,Low,True,No Email
+101,Ahmad Ali,72.0,Alzheimer,Donepezil,08:00,2025-01-01 08:00,2025-06-01,High,True,No Email
+104,Fatima Hassan,65.0,Alzheimer,Donepezil,,,,High,True,No Email
+108,Nour Hasan,,None,Vitamin D,10:00,2025-01-15 10:00,2025-05-15,Low,True,No Email
+110,Huda Yasin,52.0,Hypertension,Losartan,09:30,2025-01-18 09:30,2025-06-30,Medium,,No Email
+115,Ibrahim Naji,66.0,Alzheimer,Donepezil,08:00,2025-02-01 08:00,2025-07-01,High,True,No Email
+116,Sara Fawzi,59.0,None,Vitamin D,10:00,2025-02-03 10:00,2025-04-03,Low,True,No Email
+117,Adel Mansour,83.0,Alzheimer,Memantine,20:00,2025-02-05 20:00,2025-08-05,High,True,No Email
+118,Reem Khalaf,47.0,None,Ibuprofen,12:00,2025-02-07 12:00,2025-03-07,Low,True,No Email
+119,Fadi Awad,71.0,None,Metformin,,2025-02-10 07:30,2025-06-10,Medium,False,No Email
+120,Hanan Odeh,64.0,Alzheimer,Donepezil,08:00,2025-02-12 08:00,2025-07-12,High,True,No Email
+121,Nabil Qasem,,Diabetes,Insulin,07:00,2025-02-14 07:00,,Medium,True,No Email
+122,Yara Saeed,38.0,None,Calcium,09:00,,2025-05-01,Low,True,No Email
+123,,90.0,Alzheimer,,08:30,2025-02-16 08:30,,High,True,No Email
+124,Ziad Hamdan,56.0,None,Aspirin,,,2025-04-30,Low,True,No Email
+125,Noor Jaber,42.0,None,Vitamin B12,11:00,2025-02-18 11:00,2025-06-18,Low,True,No Email
+126,Bilal Shami,67.0,Alzheimer,Donepezil,08:00,2025-02-20 08:00,2025-08-20,High,True,No Email
+127,Alaa Khatib,60.0,None,Atorvastatin,21:00,2025-02-22 21:00,2025-09-22,Medium,True,No Email
+128,Mona Faris,,,,,,,,,No Email
+129,Hussein AbuZaid,75.0,Alzheimer,Memantine,19:00,2025-02-24 19:00,2025-07-24,High,True,No Email
+130,Rasha Salem,33.0,None,Iron,13:00,2025-02-26 13:00,2025-04-26,Low,True,No Email
+131,Majed Rafi,69.0,Hypertension,Losartan,09:30,2025-02-28 09:30,2025-06-28,Medium,True,No Email
+132,Samar Eid,58.0,None,Vitamin D,10:30,2025-03-01 10:30,,Low,True,No Email
+133,Tamer Qadi,81.0,Alzheimer,Donepezil,08:00,2025-03-03 08:00,2025-08-03,High,True,No Email
+134,Layla Saqr,44.0,None,Paracetamol,14:00,2025-03-05 14:00,2025-05-05,Low,True,No Email
